@@ -7,5 +7,6 @@ public class Main {
         System.out.println("push");
         System.out.println("pull");
         System.out.println("push1");
+        System.out.println("pull1");
     }
 }
